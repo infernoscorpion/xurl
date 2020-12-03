@@ -20,7 +20,7 @@ https://github.com/opendoor-labs/heroku-buildpack-p7zip
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/infernoscorpion/X-URL-Uploader.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infernoscorpion/xurl.git)
 ## Credits, and Thanks to
 
 * [@TGExplore](https://t.me/ViruZs) for his [TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader)
